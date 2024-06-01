@@ -10,6 +10,8 @@ namespace TrabajoAula_Luis
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hola");
+            Console.ReadLine();
         }
     }
 }
